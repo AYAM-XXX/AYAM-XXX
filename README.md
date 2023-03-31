@@ -1,9 +1,10 @@
-<h1>𝕆𝕝𝕒́, 𝕓𝕖𝕞 𝕧𝕚𝕟𝕕𝕠 𝕒𝕠 𝕞𝕖𝕦 𝕡𝕖𝕣𝕗𝕚𝕝<h1>
- ⊱{.⋅ ✯ ⋅.}⊰ ⊱{.⋅ ✯ ⋅.}⊰ 
-  <h2>👨‍💻𝑫𝒆𝒔𝒆𝒏𝒗𝒐𝒍𝒗𝒆𝒏𝒅𝒐 𝒂𝒕𝒖𝒂𝒍𝒎𝒆𝒏𝒕𝒆:</h2>  
+
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ayam+Gil;I'm+18+years+old;I'm+from+Brazil;I+Graduating+information+system;Be+Welcome!+:%29)](https://git.io/typing-svg)
+ 
+
+ 
   
- <h3>📚Estudando css e HTML📑</h3>
-  <h3>🔨desenvolvendo projetos⚙</h3>
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYAM-XXX&show_icons=true&theme=tokyonight)
  <img  height="200" width="200" src="https://user-images.githubusercontent.com/77755711/229232032-dae90a6d-655b-4f01-bd58-4aea4aad8afa.gif">
@@ -15,9 +16,14 @@
   <img align="center" alt="ayam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
 </div>
+<h2>👨‍💻𝑫𝒆𝒔𝒆𝒏𝒗𝒐𝒍𝒗𝒆𝒏𝒅𝒐 𝒂𝒕𝒖𝒂𝒍𝒎𝒆𝒏𝒕𝒆:</h2>  
+  
+ <h3>📚Estudando css e HTML📑</h3>
+  <h3>🔨desenvolvendo projetos⚙</h3>
+  
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AYAM-XXX}/count.svg" /></p> 
 <br>
 </div>
  <div style="display: inline_block"><br>
