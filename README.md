@@ -6,6 +6,7 @@
   <h3>🔨desenvolvendo projetos⚙</h3>
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYAM-XXX&show_icons=true&theme=tokyonight)
+ <img  height="200" width="200" src="https://user-images.githubusercontent.com/77755711/229232032-dae90a6d-655b-4f01-bd58-4aea4aad8afa.gif">
  
 <div style="display: inline_block"><br>
   <img align="center" alt="ayam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,4 +15,8 @@
  
 </div>
  <div style="display: inline_block"><br>
+ <img  height="200" width="200" src="https://user-images.githubusercontent.com/77755711/229229264-f8e21944-ffe6-4671-b75b-09fb5ac238a4.gif">
+ <img  height="200" width="200" src="https://user-images.githubusercontent.com/77755711/229231559-aa840b6c-af3f-411d-9c4a-d0003dbb715e.gif">
+ <img  height="200" width="200" src="https://user-images.githubusercontent.com/77755711/229232522-0121bcc7-82ae-4f58-9d68-ae014de3944c.gif">
+ <img  height="200" width="300" src="https://user-images.githubusercontent.com/77755711/229232756-6f59eedd-4f31-4cd9-bde8-b7fc96b9b91e.gif">
  </div>
