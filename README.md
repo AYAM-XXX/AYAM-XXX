@@ -1,9 +1,12 @@
 <img width=100%  src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ayam+Gil;I'm+18+years+old;I'm+from+Brazil;I+Graduating+information+system;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+   <div align="center">
    
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYAM-XXX&show_icons=true&theme=tokyonight)
- <img  height="19%" width="19%" src="https://user-images.githubusercontent.com/77755711/229232032-dae90a6d-655b-4f01-bd58-4aea4aad8afa.gif">
+   
+   </div>
  
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AYAM-XXX&bg_color=0d1117&color=4169E1&line=6495ED&point=0000CD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
