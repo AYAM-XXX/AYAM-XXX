@@ -1,6 +1,6 @@
 <img width=100%  src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ayam+Gil;I'm+18+years+old;I'm+from+Brazil;I+Graduating+information+system;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ayam+Gil;I'm+19+years+old;I'm+from+Brazil;I+Graduating+Computer+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
   <div align="center">
       
@@ -21,7 +21,7 @@
 </div>
 <h2>👨‍💻𝑫𝒆𝒔𝒆𝒏𝒗𝒐𝒍𝒗𝒆𝒏𝒅𝒐 𝒂𝒕𝒖𝒂𝒍𝒎𝒆𝒏𝒕𝒆:</h2>  
   
- <h3>📚Estudando css e HTML📑</h3>
+ <h3>📚Estudando C📑</h3>
   <h3>🔨desenvolvendo projetos⚙</h3>
   
 <div align="center">
