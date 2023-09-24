@@ -14,7 +14,8 @@
  
  
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="ayam-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />     
+  <img align="center" alt="ayam-HTML" height="30" width="40" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">     
   <img align="center" alt="ayam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ayam-CSS" height="30" width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -31,6 +32,7 @@
 <br>
 </div>
  <div align="center" style="display: inline_block"><br>
+   
  <img  height="200" width="200" src="https://user-images.githubusercontent.com/77755711/229229264-f8e21944-ffe6-4671-b75b-09fb5ac238a4.gif">
  <img  height="200" width="200" src="https://user-images.githubusercontent.com/77755711/229231559-aa840b6c-af3f-411d-9c4a-d0003dbb715e.gif">
  <img  height="200" width="200" src="https://user-images.githubusercontent.com/77755711/229232522-0121bcc7-82ae-4f58-9d68-ae014de3944c.gif">
