@@ -20,10 +20,10 @@ body {background-color: rgb(201, 76, 76);}
   <img align="center" alt="ayam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img  align="center" alt="ayam-CSS" height="30" width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <div align="center">
+  <a href="https://www.linkedin.com/in/ayamgilmarto/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"   alt="linkedin logo"  /> </a>
+</div>
   
-  
- <img align="center" alt="ayam-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/ayam-gil-marto-b367a026b/" />
-          
           
           
           
