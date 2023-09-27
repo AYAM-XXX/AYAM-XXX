@@ -1,3 +1,4 @@
+body {background-color: rgb(201, 76, 76);}
 <img width=100%  src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ayam+Gil;I'm+19+years+old;I'm+from+Brazil;I+Graduating+Computer+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -9,7 +10,7 @@
    
    </div>
  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AYAM-XXX&bg_color=0d1117&color=4169E1&line=6495ED&point=0000CD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
  
  
  
@@ -17,8 +18,17 @@
   <img align="center" alt="ayam-HTML" height="30" width="40" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">     
   <img align="center" alt="ayam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ayam-CSS" height="30" width="40" 
+  <img  align="center" alt="ayam-CSS" height="30" width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  
+ <img align="center" alt="ayam-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/ayam-gil-marto-b367a026b/" />
+          
+          
+          
+          
+          
+          
  
 </div>
 <h2>👨‍💻𝑫𝒆𝒔𝒆𝒏𝒗𝒐𝒍𝒗𝒆𝒏𝒅𝒐 𝒂𝒕𝒖𝒂𝒍𝒎𝒆𝒏𝒕𝒆:</h2>  
