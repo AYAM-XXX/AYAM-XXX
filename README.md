@@ -33,7 +33,7 @@
 </div>
 <h2>👨‍💻𝑫𝒆𝒔𝒆𝒏𝒗𝒐𝒍𝒗𝒆𝒏𝒅𝒐 𝒂𝒕𝒖𝒂𝒍𝒎𝒆𝒏𝒕𝒆:</h2>  
   
- <h3>📚Estudando C📑</h3>
+ <h3>📚Estudando Python🐍</></h3>
   <h3>🔨desenvolvendo projetos⚙</h3>
   
 <div align="center">
