@@ -1,44 +1,83 @@
+# 👨‍💻 Olá, eu sou Ayam!
 
-<img width=100%  src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
+### 🚀 Desenvolvedor Full Stack | Java | Spring Boot | JavaScript
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ayam+Gil;I'm+20+years+old;I'm+from+Brazil;I'm+a+Computer+Science+student.;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot;HTML+%7C+CSS+%7C+JavaScript;Transformando+ideias+em+código!" />
+</p>
 
-  <div align="center">
-      
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYAM-XXX&show_icons=true&theme=tokyonight)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AYAM-XXX&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats&)
-   
-   </div>
- 
+---
 
- 
- 
- 
-<div style="display: inline_block" align="center"><br>
-  <div align="center">
-  <a href="https://www.linkedin.com/in/ayam-gil-marto-b367a026b/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"   alt="linkedin logo"  /> </a>
-</div>
-  
-          
-          
-          
-          
-          
- 
-</div>
-<h2>👨‍💻𝑫𝒆𝒔𝒆𝒏𝒗𝒐𝒍𝒗𝒆𝒏𝒅𝒐 𝒂𝒕𝒖𝒂𝒍𝒎𝒆𝒏𝒕𝒆:</h2>  
-  
-<h3>📚 Atualmente estudando Python 🐍 e Java ☕</h3>
-<h3>🔨desenvolvendo projetos⚙</h3>
-  
+## 🧑‍💻 Sobre mim
+
+- 💻 Desenvolvedor Full Stack.
+- 🌱 Sempre buscando evoluir minhas habilidades e aprender novas tecnologias.
+- ⚙️ Interesse em desenvolvimento de aplicações Web e soluções Back-end.
+- ☕ Explorando o ecossistema Java e Spring Boot.
+- 🤝 Conhecimento em metodologias ágeis e trabalho em equipe.
+- 🎯 Meu objetivo é criar soluções eficientes, escaláveis e de qualidade.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AYAM-XXX}/count.svg" /></p> 
-<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,spring,git,github,vscode" />
+
 </div>
- <div align="center" style="display: inline_block"><br>
-   
- <img  height="200" width="200" src="https://user-images.githubusercontent.com/77755711/229229264-f8e21944-ffe6-4671-b75b-09fb5ac238a4.gif">
- <img  height="200" width="200" src="https://user-images.githubusercontent.com/77755711/229231559-aa840b6c-af3f-411d-9c4a-d0003dbb715e.gif">
- <img  height="200" width="200" src="https://user-images.githubusercontent.com/77755711/229232522-0121bcc7-82ae-4f58-9d68-ae014de3944c.gif">
- </div>
+
+### Conhecimentos
+
+| Tecnologia | Área |
+|---|---|
+| HTML5 | Estrutura Web |
+| CSS3 | Estilização e interfaces |
+| JavaScript | Desenvolvimento Front-end |
+| Java | Programação Back-end |
+| Spring Boot | Desenvolvimento de APIs |
+| Metodologias Ágeis | Organização e gestão de projetos |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AYAM-XX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYAM-XX&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AYAM-XX&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Minha contribuição
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AYAM-XX/AYAM-XX/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+---
+
+## 🌐 Vamos nos conectar?
+
+<div align="center">
+
+<a href="https://github.com/AYAM-XX">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Transformando linhas de código em soluções para o futuro."
+
+**Obrigado por visitar meu perfil!** ⭐
+
+</div>
