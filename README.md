@@ -59,7 +59,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/AYAM-XXX/AYAM-XXX/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
 ---
 
 ## 🌐 Vamos nos conectar?
